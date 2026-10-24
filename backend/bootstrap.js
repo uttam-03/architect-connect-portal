@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import sqlite3 from 'sqlite3';
+import dotenv from 'dotenv';
+dotenv.config();
+const source=path.resolve(process.argv[2]||'');const destination=path.resolve(process.env.SQLITE_PATH||'./data/architect_connect.sqlite');
+if(!process.argv[2]||source===destination||fs.existsSync(destination))throw new Error('Specify source; destination must not exist. Existing data never overwritten.');
+fs.mkdirSync(path.dirname(destination),{recursive:true});
+const db=new sqlite3.Database(source,sqlite3.OPEN_READONLY);
+await new Promise((resolve,reject)=>db.exec("VACUUM INTO '"+destination.replaceAll("'","''")+"'",e=>e?reject(e):resolve()));
+await new Promise((resolve,reject)=>db.close(e=>e?reject(e):resolve()));
+console.log('Imported into',destination);

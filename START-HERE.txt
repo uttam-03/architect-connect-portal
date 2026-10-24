@@ -1,0 +1,14 @@
+ARCH + CONNECT — updated package
+
+1. README.md: Windows local commands and demo accounts.
+2. docs/DEPLOY-RENDER.md: Render deployment, safe database import and payment configuration.
+3. docs/AUDIT.md: bug fixes, executed checks and remaining limitations.
+
+Node.js 22.12+ required.
+Local backend: cd backend, npm ci, npm run setup, npm start.
+Local frontend in another terminal: cd frontend, npm ci, npm run dev.
+
+Original data is retained in backend/data. Never delete this folder to fix an error.
+Seed no longer drops tables. A public GitHub repository must exclude database and .env files.
+Render SQLite requires a paid persistent disk mounted at /var/data.
+Real payments require your own Razorpay keys and webhook configuration.

@@ -1,0 +1,1872 @@
+[
+  {
+    "email": "designer1@architectconnect.demo",
+    "name": "Aanya Studio",
+    "location": "Noida",
+    "professionalTitle": "Residential Architect",
+    "experience": 8,
+    "architectFeeMin": 45000,
+    "architectFeeMax": 120000,
+    "materialBudgetMin": 350000,
+    "materialBudgetMax": 1800000,
+    "budgetMin": 395000,
+    "budgetMax": 1920000,
+    "designStyles": [
+      "Modern",
+      "Scandinavian"
+    ],
+    "expertise": [
+      "Family homes",
+      "Daylight planning",
+      "Apartment renovation"
+    ],
+    "specialization": [
+      "Family homes",
+      "Daylight planning",
+      "Apartment renovation"
+    ],
+    "bio": "Designs light-filled family homes with hidden storage, natural oak finishes and practical layouts for growing households.",
+    "projects": [
+      {
+        "title": "Oak Courtyard Residence",
+        "description": "Oak Courtyard Residence is a fictional demonstration project by Aanya Studio in Noida. The brief focuses on family homes, with modern finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Modern",
+        "location": "Noida",
+        "year": 2025,
+        "budget": 350000,
+        "images": [
+          "/media/project-001.jpg"
+        ]
+      },
+      {
+        "title": "Sector 150 Family Apartment",
+        "description": "Sector 150 Family Apartment is a fictional demonstration project by Aanya Studio in Noida. The brief focuses on daylight planning, with scandinavian finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Scandinavian",
+        "location": "Noida",
+        "year": 2026,
+        "budget": 1800000,
+        "images": [
+          "/media/project-002.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-01.jpg"
+  },
+  {
+    "email": "designer2@architectconnect.demo",
+    "name": "Arjun Kapoor",
+    "location": "Delhi",
+    "professionalTitle": "Heritage & Conservation Architect",
+    "experience": 14,
+    "architectFeeMin": 90000,
+    "architectFeeMax": 260000,
+    "materialBudgetMin": 800000,
+    "materialBudgetMax": 4500000,
+    "budgetMin": 890000,
+    "budgetMax": 4760000,
+    "designStyles": [
+      "Heritage",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Heritage restoration",
+      "Adaptive reuse",
+      "Lime plaster"
+    ],
+    "specialization": [
+      "Heritage restoration",
+      "Adaptive reuse",
+      "Lime plaster"
+    ],
+    "bio": "Restores older Delhi homes using breathable lime finishes, repaired timber and courtyard ventilation while adding modern utilities.",
+    "projects": [
+      {
+        "title": "Civil Lines Courtyard Restoration",
+        "description": "Civil Lines Courtyard Restoration is a fictional demonstration project by Arjun Kapoor in Delhi. The brief focuses on heritage restoration, with heritage finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Heritage",
+        "location": "Delhi",
+        "year": 2025,
+        "budget": 800000,
+        "images": [
+          "/media/project-003.jpg"
+        ]
+      },
+      {
+        "title": "Shahjahanabad Reading Room",
+        "description": "Shahjahanabad Reading Room is a fictional demonstration project by Arjun Kapoor in Delhi. The brief focuses on adaptive reuse, with contemporary finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Contemporary",
+        "location": "Delhi",
+        "year": 2026,
+        "budget": 4500000,
+        "images": [
+          "/media/project-004.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-02.jpg"
+  },
+  {
+    "email": "designer3@architectconnect.demo",
+    "name": "Studio Terra",
+    "location": "Gurgaon",
+    "professionalTitle": "Sustainable Architecture Studio",
+    "experience": 11,
+    "architectFeeMin": 75000,
+    "architectFeeMax": 220000,
+    "materialBudgetMin": 600000,
+    "materialBudgetMax": 3200000,
+    "budgetMin": 675000,
+    "budgetMax": 3420000,
+    "designStyles": [
+      "Sustainable",
+      "Earthy"
+    ],
+    "expertise": [
+      "Passive cooling",
+      "Earth construction",
+      "Rainwater harvesting"
+    ],
+    "specialization": [
+      "Passive cooling",
+      "Earth construction",
+      "Rainwater harvesting"
+    ],
+    "bio": "Creates low-energy homes with shaded verandas, locally sourced brick and water-sensitive landscapes for the NCR climate.",
+    "projects": [
+      {
+        "title": "Aravalli Passive Villa",
+        "description": "Aravalli Passive Villa is a fictional demonstration project by Studio Terra in Gurgaon. The brief focuses on passive cooling, with sustainable finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Sustainable",
+        "location": "Gurgaon",
+        "year": 2025,
+        "budget": 600000,
+        "images": [
+          "/media/project-005.jpg"
+        ]
+      },
+      {
+        "title": "Terracotta Garden House",
+        "description": "Terracotta Garden House is a fictional demonstration project by Studio Terra in Gurgaon. The brief focuses on earth construction, with earthy finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Earthy",
+        "location": "Gurgaon",
+        "year": 2026,
+        "budget": 3200000,
+        "images": [
+          "/media/project-006.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-03.jpg"
+  },
+  {
+    "email": "designer4@architectconnect.demo",
+    "name": "Meera Designs",
+    "location": "Mumbai",
+    "professionalTitle": "Compact Home Interior Designer",
+    "experience": 7,
+    "architectFeeMin": 35000,
+    "architectFeeMax": 95000,
+    "materialBudgetMin": 250000,
+    "materialBudgetMax": 1200000,
+    "budgetMin": 285000,
+    "budgetMax": 1295000,
+    "designStyles": [
+      "Minimalist",
+      "Coastal"
+    ],
+    "expertise": [
+      "Small apartments",
+      "Modular kitchens",
+      "Custom storage"
+    ],
+    "specialization": [
+      "Small apartments",
+      "Modular kitchens",
+      "Custom storage"
+    ],
+    "bio": "Transforms compact Mumbai apartments with convertible furniture, durable coastal finishes and storage that keeps everyday spaces open.",
+    "projects": [
+      {
+        "title": "Bandra Compact Living",
+        "description": "Bandra Compact Living is a fictional demonstration project by Meera Designs in Mumbai. The brief focuses on small apartments, with minimalist finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Minimalist",
+        "location": "Mumbai",
+        "year": 2025,
+        "budget": 250000,
+        "images": [
+          "/media/project-007.jpg"
+        ]
+      },
+      {
+        "title": "Powai Modular Apartment",
+        "description": "Powai Modular Apartment is a fictional demonstration project by Meera Designs in Mumbai. The brief focuses on modular kitchens, with coastal finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Coastal",
+        "location": "Mumbai",
+        "year": 2026,
+        "budget": 1200000,
+        "images": [
+          "/media/project-008.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-04.jpg"
+  },
+  {
+    "email": "designer5@architectconnect.demo",
+    "name": "UrbanForm",
+    "location": "Bengaluru",
+    "professionalTitle": "Workplace & Commercial Architect",
+    "experience": 12,
+    "architectFeeMin": 110000,
+    "architectFeeMax": 350000,
+    "materialBudgetMin": 1000000,
+    "materialBudgetMax": 6500000,
+    "budgetMin": 1110000,
+    "budgetMax": 6850000,
+    "designStyles": [
+      "Industrial",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Coworking spaces",
+      "Office acoustics",
+      "Workplace planning"
+    ],
+    "specialization": [
+      "Coworking spaces",
+      "Office acoustics",
+      "Workplace planning"
+    ],
+    "bio": "Plans flexible workplaces with quiet focus rooms, collaborative hubs and adaptable services for changing team sizes.",
+    "projects": [
+      {
+        "title": "Indiranagar Innovation Office",
+        "description": "Indiranagar Innovation Office is a fictional demonstration project by UrbanForm in Bengaluru. The brief focuses on coworking spaces, with industrial finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Commercial",
+        "style": "Industrial",
+        "location": "Bengaluru",
+        "year": 2025,
+        "budget": 1000000,
+        "images": [
+          "/media/project-009.jpg"
+        ]
+      },
+      {
+        "title": "Whitefield Collaboration Hub",
+        "description": "Whitefield Collaboration Hub is a fictional demonstration project by UrbanForm in Bengaluru. The brief focuses on office acoustics, with contemporary finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Commercial",
+        "style": "Contemporary",
+        "location": "Bengaluru",
+        "year": 2026,
+        "budget": 6500000,
+        "images": [
+          "/media/project-010.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-05.jpg"
+  },
+  {
+    "email": "designer6@architectconnect.demo",
+    "name": "Atelier North",
+    "location": "Jaipur",
+    "professionalTitle": "Hospitality & Boutique Hotel Architect",
+    "experience": 16,
+    "architectFeeMin": 150000,
+    "architectFeeMax": 450000,
+    "materialBudgetMin": 1500000,
+    "materialBudgetMax": 9000000,
+    "budgetMin": 1650000,
+    "budgetMax": 9450000,
+    "designStyles": [
+      "Regional",
+      "Luxury"
+    ],
+    "expertise": [
+      "Boutique hotels",
+      "Courtyard resorts",
+      "Local craftsmanship"
+    ],
+    "specialization": [
+      "Boutique hotels",
+      "Courtyard resorts",
+      "Local craftsmanship"
+    ],
+    "bio": "Combines Rajasthani craft, shaded courtyards and contemporary hospitality planning in intimate hotels and destination stays.",
+    "projects": [
+      {
+        "title": "Pink City Boutique Haveli",
+        "description": "Pink City Boutique Haveli is a fictional demonstration project by Atelier North in Jaipur. The brief focuses on boutique hotels, with regional finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Hospitality",
+        "style": "Regional",
+        "location": "Jaipur",
+        "year": 2025,
+        "budget": 1500000,
+        "images": [
+          "/media/project-011.jpg"
+        ]
+      },
+      {
+        "title": "Desert Courtyard Retreat",
+        "description": "Desert Courtyard Retreat is a fictional demonstration project by Atelier North in Jaipur. The brief focuses on courtyard resorts, with luxury finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Hospitality",
+        "style": "Luxury",
+        "location": "Jaipur",
+        "year": 2026,
+        "budget": 9000000,
+        "images": [
+          "/media/project-012.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-06.jpg"
+  },
+  {
+    "email": "designer7@architectconnect.demo",
+    "name": "Rhea Architects",
+    "location": "Lucknow",
+    "professionalTitle": "Landscape & Residential Architect",
+    "experience": 9,
+    "architectFeeMin": 60000,
+    "architectFeeMax": 175000,
+    "materialBudgetMin": 450000,
+    "materialBudgetMax": 2500000,
+    "budgetMin": 510000,
+    "budgetMax": 2675000,
+    "designStyles": [
+      "Biophilic",
+      "Modern"
+    ],
+    "expertise": [
+      "Landscape design",
+      "Garden homes",
+      "Outdoor living"
+    ],
+    "specialization": [
+      "Landscape design",
+      "Garden homes",
+      "Outdoor living"
+    ],
+    "bio": "Connects indoor rooms to gardens through planted courts, shaded seating and seasonal planting suited to northern Indian homes.",
+    "projects": [
+      {
+        "title": "Gomti Garden Residence",
+        "description": "Gomti Garden Residence is a fictional demonstration project by Rhea Architects in Lucknow. The brief focuses on landscape design, with biophilic finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Biophilic",
+        "location": "Lucknow",
+        "year": 2025,
+        "budget": 450000,
+        "images": [
+          "/media/project-013.jpg"
+        ]
+      },
+      {
+        "title": "Courtyard and Canopy House",
+        "description": "Courtyard and Canopy House is a fictional demonstration project by Rhea Architects in Lucknow. The brief focuses on garden homes, with modern finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Modern",
+        "location": "Lucknow",
+        "year": 2026,
+        "budget": 2500000,
+        "images": [
+          "/media/project-014.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-07.jpg"
+  },
+  {
+    "email": "designer8@architectconnect.demo",
+    "name": "The Habitat Lab",
+    "location": "Chandigarh",
+    "professionalTitle": "Accessible Housing Architect",
+    "experience": 13,
+    "architectFeeMin": 80000,
+    "architectFeeMax": 240000,
+    "materialBudgetMin": 700000,
+    "materialBudgetMax": 3800000,
+    "budgetMin": 780000,
+    "budgetMax": 4040000,
+    "designStyles": [
+      "Minimalist",
+      "Universal"
+    ],
+    "expertise": [
+      "Accessible homes",
+      "Senior living",
+      "Universal design"
+    ],
+    "specialization": [
+      "Accessible homes",
+      "Senior living",
+      "Universal design"
+    ],
+    "bio": "Designs welcoming homes with step-free access, generous circulation and comfortable daylight for residents of different ages and abilities.",
+    "projects": [
+      {
+        "title": "Step-free Family Villa",
+        "description": "Step-free Family Villa is a fictional demonstration project by The Habitat Lab in Chandigarh. The brief focuses on accessible homes, with minimalist finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Minimalist",
+        "location": "Chandigarh",
+        "year": 2025,
+        "budget": 700000,
+        "images": [
+          "/media/project-015.jpg"
+        ]
+      },
+      {
+        "title": "Silver Years Community Lounge",
+        "description": "Silver Years Community Lounge is a fictional demonstration project by The Habitat Lab in Chandigarh. The brief focuses on senior living, with universal finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Universal",
+        "location": "Chandigarh",
+        "year": 2026,
+        "budget": 3800000,
+        "images": [
+          "/media/project-016.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-08.jpg"
+  },
+  {
+    "email": "designer9@architectconnect.demo",
+    "name": "Nivasa Studio",
+    "location": "Pune",
+    "professionalTitle": "Renovation & Interior Design Studio",
+    "experience": 6,
+    "architectFeeMin": 28000,
+    "architectFeeMax": 85000,
+    "materialBudgetMin": 200000,
+    "materialBudgetMax": 1000000,
+    "budgetMin": 228000,
+    "budgetMax": 1085000,
+    "designStyles": [
+      "Japandi",
+      "Warm Minimalist"
+    ],
+    "expertise": [
+      "Budget renovations",
+      "Rental makeovers",
+      "Furniture design"
+    ],
+    "specialization": [
+      "Budget renovations",
+      "Rental makeovers",
+      "Furniture design"
+    ],
+    "bio": "Reworks existing apartments with restrained palettes, repairable furniture and phased renovation plans that respect modest budgets.",
+    "projects": [
+      {
+        "title": "Kothrud Japandi Makeover",
+        "description": "Kothrud Japandi Makeover is a fictional demonstration project by Nivasa Studio in Pune. The brief focuses on budget renovations, with japandi finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Japandi",
+        "location": "Pune",
+        "year": 2025,
+        "budget": 200000,
+        "images": [
+          "/media/project-017.jpg"
+        ]
+      },
+      {
+        "title": "Aundh First Home",
+        "description": "Aundh First Home is a fictional demonstration project by Nivasa Studio in Pune. The brief focuses on rental makeovers, with warm minimalist finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Warm Minimalist",
+        "location": "Pune",
+        "year": 2026,
+        "budget": 1000000,
+        "images": [
+          "/media/project-018.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-09.jpg"
+  },
+  {
+    "email": "designer10@architectconnect.demo",
+    "name": "Axis & Arch",
+    "location": "Hyderabad",
+    "professionalTitle": "Luxury Villa & Residential Architect",
+    "experience": 18,
+    "architectFeeMin": 180000,
+    "architectFeeMax": 550000,
+    "materialBudgetMin": 2000000,
+    "materialBudgetMax": 12000000,
+    "budgetMin": 2180000,
+    "budgetMax": 12550000,
+    "designStyles": [
+      "Luxury",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Luxury villas",
+      "Structural coordination",
+      "Turnkey planning"
+    ],
+    "specialization": [
+      "Luxury villas",
+      "Structural coordination",
+      "Turnkey planning"
+    ],
+    "bio": "Develops bespoke villas around double-height living spaces, carefully detailed stone finishes and coordinated architectural services.",
+    "projects": [
+      {
+        "title": "Jubilee Hills Stone Villa",
+        "description": "Jubilee Hills Stone Villa is a fictional demonstration project by Axis & Arch in Hyderabad. The brief focuses on luxury villas, with luxury finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Luxury",
+        "location": "Hyderabad",
+        "year": 2025,
+        "budget": 2000000,
+        "images": [
+          "/media/project-019.jpg"
+        ]
+      },
+      {
+        "title": "Lakeview Contemporary Residence",
+        "description": "Lakeview Contemporary Residence is a fictional demonstration project by Axis & Arch in Hyderabad. The brief focuses on structural coordination, with contemporary finishes, coordinated lighting and a clearly separated design and materials estimate.",
+        "category": "Residential",
+        "style": "Contemporary",
+        "location": "Hyderabad",
+        "year": 2026,
+        "budget": 12000000,
+        "images": [
+          "/media/project-020.jpg"
+        ]
+      }
+    ],
+    "profileImage": "/media/studio-10.jpg"
+  },
+  {
+    "email": "designer11@architectconnect.demo",
+    "name": "Loom & Light",
+    "location": "Ahmedabad",
+    "professionalTitle": "Textile-inspired Interior Designer",
+    "experience": 19,
+    "architectFeeMin": 20000,
+    "architectFeeMax": 60000,
+    "materialBudgetMin": 180000,
+    "materialBudgetMax": 720000,
+    "budgetMin": 200000,
+    "budgetMax": 780000,
+    "designStyles": [
+      "Warm Minimalist",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Textile studios",
+      "Craft-led homes",
+      "Space planning"
+    ],
+    "specialization": [
+      "Textile studios",
+      "Craft-led homes"
+    ],
+    "bio": "Loom & Light is a fictional sample studio in Ahmedabad that uses woven screens, handmade textiles and warm indirect light. Its practice focuses on textile studios and craft-led homes, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-11.jpg",
+    "projects": [
+      {
+        "title": "Ahmedabad Textile studio Concept",
+        "description": "A fictional commercial concept by Loom & Light. This textile studio concept brief uses woven screens, handmade textiles and warm indirect light, with emphasis on craft-led homes. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Warm Minimalist",
+        "location": "Ahmedabad",
+        "year": 2024,
+        "budget": 180000,
+        "images": [
+          "/media/project-021.jpg"
+        ]
+      },
+      {
+        "title": "Ahmedabad Craft-led homes Project",
+        "description": "A fictional commercial concept by Loom & Light. This craft-led homes project brief uses woven screens, handmade textiles and warm indirect light, with emphasis on craft-led homes. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Warm Minimalist",
+        "location": "Ahmedabad",
+        "year": 2025,
+        "budget": 360000,
+        "images": [
+          "/media/project-022.jpg"
+        ]
+      },
+      {
+        "title": "Ahmedabad Warm Minimalist Showcase",
+        "description": "A fictional commercial concept by Loom & Light. This warm minimalist showcase brief uses woven screens, handmade textiles and warm indirect light, with emphasis on craft-led homes. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Warm Minimalist",
+        "location": "Ahmedabad",
+        "year": 2026,
+        "budget": 540000,
+        "images": [
+          "/media/project-023.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer12@architectconnect.demo",
+    "name": "Coastal Arc",
+    "location": "Kochi",
+    "professionalTitle": "Coastal Residential Architect",
+    "experience": 4,
+    "architectFeeMin": 26500,
+    "architectFeeMax": 79500,
+    "materialBudgetMin": 250000,
+    "materialBudgetMax": 1000000,
+    "budgetMin": 276500,
+    "budgetMax": 1079500,
+    "designStyles": [
+      "Coastal",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Coastal homes",
+      "Moisture-resistant detailing",
+      "Space planning"
+    ],
+    "specialization": [
+      "Coastal homes",
+      "Moisture-resistant detailing"
+    ],
+    "bio": "Coastal Arc is a fictional sample studio in Kochi that plans shaded, breezy homes with deep eaves and salt-resistant finishes. Its practice focuses on coastal homes and moisture-resistant detailing, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-12.jpg",
+    "projects": [
+      {
+        "title": "Kochi Coastal home Concept",
+        "description": "A fictional residential concept by Coastal Arc. This coastal home concept brief plans shaded, breezy homes with deep eaves and salt-resistant finishes, with emphasis on moisture-resistant detailing. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Coastal",
+        "location": "Kochi",
+        "year": 2024,
+        "budget": 250000,
+        "images": [
+          "/media/project-024.jpg"
+        ]
+      },
+      {
+        "title": "Kochi Moisture-resistant detailing Project",
+        "description": "A fictional residential concept by Coastal Arc. This moisture-resistant detailing project brief plans shaded, breezy homes with deep eaves and salt-resistant finishes, with emphasis on moisture-resistant detailing. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Coastal",
+        "location": "Kochi",
+        "year": 2025,
+        "budget": 500000,
+        "images": [
+          "/media/project-025.jpg"
+        ]
+      },
+      {
+        "title": "Kochi Coastal Showcase",
+        "description": "A fictional residential concept by Coastal Arc. This coastal showcase brief plans shaded, breezy homes with deep eaves and salt-resistant finishes, with emphasis on moisture-resistant detailing. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Coastal",
+        "location": "Kochi",
+        "year": 2026,
+        "budget": 750000,
+        "images": [
+          "/media/project-026.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer13@architectconnect.demo",
+    "name": "Brickline Studio",
+    "location": "Indore",
+    "professionalTitle": "Affordable Housing Architect",
+    "experience": 7,
+    "architectFeeMin": 33000,
+    "architectFeeMax": 99000,
+    "materialBudgetMin": 320000,
+    "materialBudgetMax": 1280000,
+    "budgetMin": 353000,
+    "budgetMax": 1379000,
+    "designStyles": [
+      "Modern",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Affordable housing",
+      "Phased construction",
+      "Space planning"
+    ],
+    "specialization": [
+      "Affordable housing",
+      "Phased construction"
+    ],
+    "bio": "Brickline Studio is a fictional sample studio in Indore that prioritizes cost clarity, standard structural grids and flexible room layouts. Its practice focuses on affordable housing and phased construction, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-13.jpg",
+    "projects": [
+      {
+        "title": "Indore Affordable housing Concept",
+        "description": "A fictional residential concept by Brickline Studio. This affordable housing concept brief prioritizes cost clarity, standard structural grids and flexible room layouts, with emphasis on phased construction. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Modern",
+        "location": "Indore",
+        "year": 2024,
+        "budget": 320000,
+        "images": [
+          "/media/project-027.jpg"
+        ]
+      },
+      {
+        "title": "Indore Phased construction Project",
+        "description": "A fictional residential concept by Brickline Studio. This phased construction project brief prioritizes cost clarity, standard structural grids and flexible room layouts, with emphasis on phased construction. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Modern",
+        "location": "Indore",
+        "year": 2025,
+        "budget": 640000,
+        "images": [
+          "/media/project-028.jpg"
+        ]
+      },
+      {
+        "title": "Indore Modern Showcase",
+        "description": "A fictional residential concept by Brickline Studio. This modern showcase brief prioritizes cost clarity, standard structural grids and flexible room layouts, with emphasis on phased construction. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Modern",
+        "location": "Indore",
+        "year": 2026,
+        "budget": 960000,
+        "images": [
+          "/media/project-029.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer14@architectconnect.demo",
+    "name": "Pine & Plane",
+    "location": "Dehradun",
+    "professionalTitle": "Hill Home Architect",
+    "experience": 10,
+    "architectFeeMin": 39500,
+    "architectFeeMax": 118500,
+    "materialBudgetMin": 390000,
+    "materialBudgetMax": 1560000,
+    "budgetMin": 429500,
+    "budgetMax": 1678500,
+    "designStyles": [
+      "Rustic",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Hill homes",
+      "Slope planning",
+      "Space planning"
+    ],
+    "specialization": [
+      "Hill homes",
+      "Slope planning"
+    ],
+    "bio": "Pine & Plane is a fictional sample studio in Dehradun that works with site contours, mountain views and weather-protected entrances. Its practice focuses on hill homes and slope planning, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-14.jpg",
+    "projects": [
+      {
+        "title": "Dehradun Hill home Concept",
+        "description": "A fictional residential concept by Pine & Plane. This hill home concept brief works with site contours, mountain views and weather-protected entrances, with emphasis on slope planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Rustic",
+        "location": "Dehradun",
+        "year": 2024,
+        "budget": 390000,
+        "images": [
+          "/media/project-030.jpg"
+        ]
+      },
+      {
+        "title": "Dehradun Slope planning Project",
+        "description": "A fictional residential concept by Pine & Plane. This slope planning project brief works with site contours, mountain views and weather-protected entrances, with emphasis on slope planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Rustic",
+        "location": "Dehradun",
+        "year": 2025,
+        "budget": 780000,
+        "images": [
+          "/media/project-031.jpg"
+        ]
+      },
+      {
+        "title": "Dehradun Rustic Showcase",
+        "description": "A fictional residential concept by Pine & Plane. This rustic showcase brief works with site contours, mountain views and weather-protected entrances, with emphasis on slope planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Rustic",
+        "location": "Dehradun",
+        "year": 2026,
+        "budget": 1170000,
+        "images": [
+          "/media/project-032.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer15@architectconnect.demo",
+    "name": "Casa Curve",
+    "location": "Chennai",
+    "professionalTitle": "Climate-responsive Interior Designer",
+    "experience": 13,
+    "architectFeeMin": 46000,
+    "architectFeeMax": 138000,
+    "materialBudgetMin": 460000,
+    "materialBudgetMax": 1840000,
+    "budgetMin": 506000,
+    "budgetMax": 1978000,
+    "designStyles": [
+      "Tropical",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Tropical interiors",
+      "Ventilation planning",
+      "Space planning"
+    ],
+    "specialization": [
+      "Tropical interiors",
+      "Ventilation planning"
+    ],
+    "bio": "Casa Curve is a fictional sample studio in Chennai that pairs ventilated layouts with durable timber, lime finishes and shaded balconies. Its practice focuses on tropical interiors and ventilation planning, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-15.jpg",
+    "projects": [
+      {
+        "title": "Chennai Tropical interior Concept",
+        "description": "A fictional residential concept by Casa Curve. This tropical interior concept brief pairs ventilated layouts with durable timber, lime finishes and shaded balconies, with emphasis on ventilation planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Tropical",
+        "location": "Chennai",
+        "year": 2024,
+        "budget": 460000,
+        "images": [
+          "/media/project-033.jpg"
+        ]
+      },
+      {
+        "title": "Chennai Ventilation planning Project",
+        "description": "A fictional residential concept by Casa Curve. This ventilation planning project brief pairs ventilated layouts with durable timber, lime finishes and shaded balconies, with emphasis on ventilation planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Tropical",
+        "location": "Chennai",
+        "year": 2025,
+        "budget": 920000,
+        "images": [
+          "/media/project-034.jpg"
+        ]
+      },
+      {
+        "title": "Chennai Tropical Showcase",
+        "description": "A fictional residential concept by Casa Curve. This tropical showcase brief pairs ventilated layouts with durable timber, lime finishes and shaded balconies, with emphasis on ventilation planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Tropical",
+        "location": "Chennai",
+        "year": 2026,
+        "budget": 1380000,
+        "images": [
+          "/media/project-035.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer16@architectconnect.demo",
+    "name": "Civic Frame",
+    "location": "Bhopal",
+    "professionalTitle": "Institutional Architect",
+    "experience": 16,
+    "architectFeeMin": 52500,
+    "architectFeeMax": 157500,
+    "materialBudgetMin": 530000,
+    "materialBudgetMax": 2120000,
+    "budgetMin": 582500,
+    "budgetMax": 2277500,
+    "designStyles": [
+      "Contemporary",
+      "Modern"
+    ],
+    "expertise": [
+      "Libraries",
+      "Community spaces",
+      "Space planning"
+    ],
+    "specialization": [
+      "Libraries",
+      "Community spaces"
+    ],
+    "bio": "Civic Frame is a fictional sample studio in Bhopal that organizes welcoming public buildings around daylight, accessible routes and durable finishes. Its practice focuses on libraries and community spaces, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-16.jpg",
+    "projects": [
+      {
+        "title": "Bhopal Librarie Concept",
+        "description": "A fictional institutional concept by Civic Frame. This librarie concept brief organizes welcoming public buildings around daylight, accessible routes and durable finishes, with emphasis on community spaces. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Contemporary",
+        "location": "Bhopal",
+        "year": 2024,
+        "budget": 530000,
+        "images": [
+          "/media/project-036.jpg"
+        ]
+      },
+      {
+        "title": "Bhopal Community spaces Project",
+        "description": "A fictional institutional concept by Civic Frame. This community spaces project brief organizes welcoming public buildings around daylight, accessible routes and durable finishes, with emphasis on community spaces. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Contemporary",
+        "location": "Bhopal",
+        "year": 2025,
+        "budget": 1060000,
+        "images": [
+          "/media/project-037.jpg"
+        ]
+      },
+      {
+        "title": "Bhopal Contemporary Showcase",
+        "description": "A fictional institutional concept by Civic Frame. This contemporary showcase brief organizes welcoming public buildings around daylight, accessible routes and durable finishes, with emphasis on community spaces. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Contemporary",
+        "location": "Bhopal",
+        "year": 2026,
+        "budget": 1590000,
+        "images": [
+          "/media/project-038.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer17@architectconnect.demo",
+    "name": "Veda Spaces",
+    "location": "Varanasi",
+    "professionalTitle": "Cultural Space Architect",
+    "experience": 19,
+    "architectFeeMin": 59000,
+    "architectFeeMax": 177000,
+    "materialBudgetMin": 600000,
+    "materialBudgetMax": 2400000,
+    "budgetMin": 659000,
+    "budgetMax": 2577000,
+    "designStyles": [
+      "Heritage",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Cultural centres",
+      "Courtyard planning",
+      "Space planning"
+    ],
+    "specialization": [
+      "Cultural centres",
+      "Courtyard planning"
+    ],
+    "bio": "Veda Spaces is a fictional sample studio in Varanasi that interprets traditional courtyards and local stone for contemporary gathering spaces. Its practice focuses on cultural centres and courtyard planning, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-17.jpg",
+    "projects": [
+      {
+        "title": "Varanasi Cultural centre Concept",
+        "description": "A fictional institutional concept by Veda Spaces. This cultural centre concept brief interprets traditional courtyards and local stone for contemporary gathering spaces, with emphasis on courtyard planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Heritage",
+        "location": "Varanasi",
+        "year": 2024,
+        "budget": 600000,
+        "images": [
+          "/media/project-039.jpg"
+        ]
+      },
+      {
+        "title": "Varanasi Courtyard planning Project",
+        "description": "A fictional institutional concept by Veda Spaces. This courtyard planning project brief interprets traditional courtyards and local stone for contemporary gathering spaces, with emphasis on courtyard planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Heritage",
+        "location": "Varanasi",
+        "year": 2025,
+        "budget": 1200000,
+        "images": [
+          "/media/project-040.jpg"
+        ]
+      },
+      {
+        "title": "Varanasi Heritage Showcase",
+        "description": "A fictional institutional concept by Veda Spaces. This heritage showcase brief interprets traditional courtyards and local stone for contemporary gathering spaces, with emphasis on courtyard planning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Heritage",
+        "location": "Varanasi",
+        "year": 2026,
+        "budget": 1800000,
+        "images": [
+          "/media/project-041.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer18@architectconnect.demo",
+    "name": "Green Grid",
+    "location": "Surat",
+    "professionalTitle": "Energy-efficient Commercial Architect",
+    "experience": 4,
+    "architectFeeMin": 65500,
+    "architectFeeMax": 196500,
+    "materialBudgetMin": 670000,
+    "materialBudgetMax": 2680000,
+    "budgetMin": 735500,
+    "budgetMax": 2876500,
+    "designStyles": [
+      "Sustainable",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Retail buildings",
+      "Solar shading",
+      "Space planning"
+    ],
+    "specialization": [
+      "Retail buildings",
+      "Solar shading"
+    ],
+    "bio": "Green Grid is a fictional sample studio in Surat that reduces heat gain using shaded storefronts, efficient lighting and roof insulation. Its practice focuses on retail buildings and solar shading, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-18.jpg",
+    "projects": [
+      {
+        "title": "Surat Retail building Concept",
+        "description": "A fictional commercial concept by Green Grid. This retail building concept brief reduces heat gain using shaded storefronts, efficient lighting and roof insulation, with emphasis on solar shading. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Sustainable",
+        "location": "Surat",
+        "year": 2024,
+        "budget": 670000,
+        "images": [
+          "/media/project-042.jpg"
+        ]
+      },
+      {
+        "title": "Surat Solar shading Project",
+        "description": "A fictional commercial concept by Green Grid. This solar shading project brief reduces heat gain using shaded storefronts, efficient lighting and roof insulation, with emphasis on solar shading. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Sustainable",
+        "location": "Surat",
+        "year": 2025,
+        "budget": 1340000,
+        "images": [
+          "/media/project-043.jpg"
+        ]
+      },
+      {
+        "title": "Surat Sustainable Showcase",
+        "description": "A fictional commercial concept by Green Grid. This sustainable showcase brief reduces heat gain using shaded storefronts, efficient lighting and roof insulation, with emphasis on solar shading. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Sustainable",
+        "location": "Surat",
+        "year": 2026,
+        "budget": 2010000,
+        "images": [
+          "/media/project-044.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer19@architectconnect.demo",
+    "name": "Atelier East",
+    "location": "Kolkata",
+    "professionalTitle": "Art & Gallery Interior Designer",
+    "experience": 7,
+    "architectFeeMin": 72000,
+    "architectFeeMax": 216000,
+    "materialBudgetMin": 740000,
+    "materialBudgetMax": 2960000,
+    "budgetMin": 812000,
+    "budgetMax": 3176000,
+    "designStyles": [
+      "Industrial",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Art galleries",
+      "Exhibition lighting",
+      "Space planning"
+    ],
+    "specialization": [
+      "Art galleries",
+      "Exhibition lighting"
+    ],
+    "bio": "Atelier East is a fictional sample studio in Kolkata that creates adaptable display walls, controlled sightlines and carefully balanced exhibition light. Its practice focuses on art galleries and exhibition lighting, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-19.jpg",
+    "projects": [
+      {
+        "title": "Kolkata Art gallerie Concept",
+        "description": "A fictional commercial concept by Atelier East. This art gallerie concept brief creates adaptable display walls, controlled sightlines and carefully balanced exhibition light, with emphasis on exhibition lighting. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Industrial",
+        "location": "Kolkata",
+        "year": 2024,
+        "budget": 740000,
+        "images": [
+          "/media/project-045.jpg"
+        ]
+      },
+      {
+        "title": "Kolkata Exhibition lighting Project",
+        "description": "A fictional commercial concept by Atelier East. This exhibition lighting project brief creates adaptable display walls, controlled sightlines and carefully balanced exhibition light, with emphasis on exhibition lighting. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Industrial",
+        "location": "Kolkata",
+        "year": 2025,
+        "budget": 1480000,
+        "images": [
+          "/media/project-046.jpg"
+        ]
+      },
+      {
+        "title": "Kolkata Industrial Showcase",
+        "description": "A fictional commercial concept by Atelier East. This industrial showcase brief creates adaptable display walls, controlled sightlines and carefully balanced exhibition light, with emphasis on exhibition lighting. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Industrial",
+        "location": "Kolkata",
+        "year": 2026,
+        "budget": 2220000,
+        "images": [
+          "/media/project-047.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer20@architectconnect.demo",
+    "name": "Nestcraft",
+    "location": "Nagpur",
+    "professionalTitle": "Family Home Interior Designer",
+    "experience": 10,
+    "architectFeeMin": 78500,
+    "architectFeeMax": 235500,
+    "materialBudgetMin": 810000,
+    "materialBudgetMax": 3240000,
+    "budgetMin": 888500,
+    "budgetMax": 3475500,
+    "designStyles": [
+      "Scandinavian",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Family apartments",
+      "Child-friendly interiors",
+      "Space planning"
+    ],
+    "specialization": [
+      "Family apartments",
+      "Child-friendly interiors"
+    ],
+    "bio": "Nestcraft is a fictional sample studio in Nagpur that combines washable finishes, rounded furniture and storage scaled for family routines. Its practice focuses on family apartments and child-friendly interiors, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-20.jpg",
+    "projects": [
+      {
+        "title": "Nagpur Family apartment Concept",
+        "description": "A fictional residential concept by Nestcraft. This family apartment concept brief combines washable finishes, rounded furniture and storage scaled for family routines, with emphasis on child-friendly interiors. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Scandinavian",
+        "location": "Nagpur",
+        "year": 2024,
+        "budget": 810000,
+        "images": [
+          "/media/project-048.jpg"
+        ]
+      },
+      {
+        "title": "Nagpur Child-friendly interiors Project",
+        "description": "A fictional residential concept by Nestcraft. This child-friendly interiors project brief combines washable finishes, rounded furniture and storage scaled for family routines, with emphasis on child-friendly interiors. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Scandinavian",
+        "location": "Nagpur",
+        "year": 2025,
+        "budget": 1620000,
+        "images": [
+          "/media/project-049.jpg"
+        ]
+      },
+      {
+        "title": "Nagpur Scandinavian Showcase",
+        "description": "A fictional residential concept by Nestcraft. This scandinavian showcase brief combines washable finishes, rounded furniture and storage scaled for family routines, with emphasis on child-friendly interiors. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Scandinavian",
+        "location": "Nagpur",
+        "year": 2026,
+        "budget": 2430000,
+        "images": [
+          "/media/project-050.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer21@architectconnect.demo",
+    "name": "Stoneleaf",
+    "location": "Udaipur",
+    "professionalTitle": "Boutique Resort Architect",
+    "experience": 13,
+    "architectFeeMin": 85000,
+    "architectFeeMax": 255000,
+    "materialBudgetMin": 880000,
+    "materialBudgetMax": 3520000,
+    "budgetMin": 965000,
+    "budgetMax": 3775000,
+    "designStyles": [
+      "Luxury",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Resorts",
+      "Landscape integration",
+      "Space planning"
+    ],
+    "specialization": [
+      "Resorts",
+      "Landscape integration"
+    ],
+    "bio": "Stoneleaf is a fictional sample studio in Udaipur that uses local stone and planted courts to create calm hospitality spaces. Its practice focuses on resorts and landscape integration, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-21.jpg",
+    "projects": [
+      {
+        "title": "Udaipur Resort Concept",
+        "description": "A fictional hospitality concept by Stoneleaf. This resort concept brief uses local stone and planted courts to create calm hospitality spaces, with emphasis on landscape integration. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Hospitality",
+        "style": "Luxury",
+        "location": "Udaipur",
+        "year": 2024,
+        "budget": 880000,
+        "images": [
+          "/media/project-051.jpg"
+        ]
+      },
+      {
+        "title": "Udaipur Landscape integration Project",
+        "description": "A fictional hospitality concept by Stoneleaf. This landscape integration project brief uses local stone and planted courts to create calm hospitality spaces, with emphasis on landscape integration. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Hospitality",
+        "style": "Luxury",
+        "location": "Udaipur",
+        "year": 2025,
+        "budget": 1760000,
+        "images": [
+          "/media/project-052.jpg"
+        ]
+      },
+      {
+        "title": "Udaipur Luxury Showcase",
+        "description": "A fictional hospitality concept by Stoneleaf. This luxury showcase brief uses local stone and planted courts to create calm hospitality spaces, with emphasis on landscape integration. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Hospitality",
+        "style": "Luxury",
+        "location": "Udaipur",
+        "year": 2026,
+        "budget": 2640000,
+        "images": [
+          "/media/project-053.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer22@architectconnect.demo",
+    "name": "Forma Retail",
+    "location": "Gurgaon",
+    "professionalTitle": "Retail Experience Designer",
+    "experience": 16,
+    "architectFeeMin": 91500,
+    "architectFeeMax": 274500,
+    "materialBudgetMin": 950000,
+    "materialBudgetMax": 3800000,
+    "budgetMin": 1041500,
+    "budgetMax": 4074500,
+    "designStyles": [
+      "Contemporary",
+      "Modern"
+    ],
+    "expertise": [
+      "Showrooms",
+      "Customer circulation",
+      "Space planning"
+    ],
+    "specialization": [
+      "Showrooms",
+      "Customer circulation"
+    ],
+    "bio": "Forma Retail is a fictional sample studio in Gurgaon that develops legible shopping routes with flexible displays and focused merchandise lighting. Its practice focuses on showrooms and customer circulation, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-22.jpg",
+    "projects": [
+      {
+        "title": "Gurgaon Showroom Concept",
+        "description": "A fictional commercial concept by Forma Retail. This showroom concept brief develops legible shopping routes with flexible displays and focused merchandise lighting, with emphasis on customer circulation. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Contemporary",
+        "location": "Gurgaon",
+        "year": 2024,
+        "budget": 950000,
+        "images": [
+          "/media/project-054.jpg"
+        ]
+      },
+      {
+        "title": "Gurgaon Customer circulation Project",
+        "description": "A fictional commercial concept by Forma Retail. This customer circulation project brief develops legible shopping routes with flexible displays and focused merchandise lighting, with emphasis on customer circulation. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Contemporary",
+        "location": "Gurgaon",
+        "year": 2025,
+        "budget": 1900000,
+        "images": [
+          "/media/project-055.jpg"
+        ]
+      },
+      {
+        "title": "Gurgaon Contemporary Showcase",
+        "description": "A fictional commercial concept by Forma Retail. This contemporary showcase brief develops legible shopping routes with flexible displays and focused merchandise lighting, with emphasis on customer circulation. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Contemporary",
+        "location": "Gurgaon",
+        "year": 2026,
+        "budget": 2850000,
+        "images": [
+          "/media/project-056.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer23@architectconnect.demo",
+    "name": "Quiet Axis",
+    "location": "Coimbatore",
+    "professionalTitle": "Healthcare Interior Architect",
+    "experience": 19,
+    "architectFeeMin": 98000,
+    "architectFeeMax": 294000,
+    "materialBudgetMin": 1020000,
+    "materialBudgetMax": 4080000,
+    "budgetMin": 1118000,
+    "budgetMax": 4374000,
+    "designStyles": [
+      "Minimalist",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Clinics",
+      "Waiting areas",
+      "Space planning"
+    ],
+    "specialization": [
+      "Clinics",
+      "Waiting areas"
+    ],
+    "bio": "Quiet Axis is a fictional sample studio in Coimbatore that plans clear circulation, cleanable surfaces and calming waiting spaces. Its practice focuses on clinics and waiting areas, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-23.jpg",
+    "projects": [
+      {
+        "title": "Coimbatore Clinic Concept",
+        "description": "A fictional commercial concept by Quiet Axis. This clinic concept brief plans clear circulation, cleanable surfaces and calming waiting spaces, with emphasis on waiting areas. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Minimalist",
+        "location": "Coimbatore",
+        "year": 2024,
+        "budget": 1020000,
+        "images": [
+          "/media/project-057.jpg"
+        ]
+      },
+      {
+        "title": "Coimbatore Waiting areas Project",
+        "description": "A fictional commercial concept by Quiet Axis. This waiting areas project brief plans clear circulation, cleanable surfaces and calming waiting spaces, with emphasis on waiting areas. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Minimalist",
+        "location": "Coimbatore",
+        "year": 2025,
+        "budget": 2040000,
+        "images": [
+          "/media/project-058.jpg"
+        ]
+      },
+      {
+        "title": "Coimbatore Minimalist Showcase",
+        "description": "A fictional commercial concept by Quiet Axis. This minimalist showcase brief plans clear circulation, cleanable surfaces and calming waiting spaces, with emphasis on waiting areas. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Minimalist",
+        "location": "Coimbatore",
+        "year": 2026,
+        "budget": 3060000,
+        "images": [
+          "/media/project-059.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer24@architectconnect.demo",
+    "name": "Playground Studio",
+    "location": "Mysuru",
+    "professionalTitle": "Learning Space Architect",
+    "experience": 4,
+    "architectFeeMin": 104500,
+    "architectFeeMax": 313500,
+    "materialBudgetMin": 1090000,
+    "materialBudgetMax": 4360000,
+    "budgetMin": 1194500,
+    "budgetMax": 4673500,
+    "designStyles": [
+      "Biophilic",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Schools",
+      "Play-based learning",
+      "Space planning"
+    ],
+    "specialization": [
+      "Schools",
+      "Play-based learning"
+    ],
+    "bio": "Playground Studio is a fictional sample studio in Mysuru that connects classrooms to shaded outdoor learning areas and safe play courts. Its practice focuses on schools and play-based learning, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-24.jpg",
+    "projects": [
+      {
+        "title": "Mysuru School Concept",
+        "description": "A fictional institutional concept by Playground Studio. This school concept brief connects classrooms to shaded outdoor learning areas and safe play courts, with emphasis on play-based learning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Biophilic",
+        "location": "Mysuru",
+        "year": 2024,
+        "budget": 1090000,
+        "images": [
+          "/media/project-060.jpg"
+        ]
+      },
+      {
+        "title": "Mysuru Play-based learning Project",
+        "description": "A fictional institutional concept by Playground Studio. This play-based learning project brief connects classrooms to shaded outdoor learning areas and safe play courts, with emphasis on play-based learning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Biophilic",
+        "location": "Mysuru",
+        "year": 2025,
+        "budget": 2180000,
+        "images": [
+          "/media/project-061.jpg"
+        ]
+      },
+      {
+        "title": "Mysuru Biophilic Showcase",
+        "description": "A fictional institutional concept by Playground Studio. This biophilic showcase brief connects classrooms to shaded outdoor learning areas and safe play courts, with emphasis on play-based learning. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Institutional",
+        "style": "Biophilic",
+        "location": "Mysuru",
+        "year": 2026,
+        "budget": 3270000,
+        "images": [
+          "/media/project-062.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer25@architectconnect.demo",
+    "name": "Copper Room",
+    "location": "Vadodara",
+    "professionalTitle": "Restaurant Interior Designer",
+    "experience": 7,
+    "architectFeeMin": 111000,
+    "architectFeeMax": 333000,
+    "materialBudgetMin": 1160000,
+    "materialBudgetMax": 4640000,
+    "budgetMin": 1271000,
+    "budgetMax": 4973000,
+    "designStyles": [
+      "Regional",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Restaurants",
+      "Dining acoustics",
+      "Space planning"
+    ],
+    "specialization": [
+      "Restaurants",
+      "Dining acoustics"
+    ],
+    "bio": "Copper Room is a fictional sample studio in Vadodara that balances kitchen workflow, comfortable seating and locally crafted interior details. Its practice focuses on restaurants and dining acoustics, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-25.jpg",
+    "projects": [
+      {
+        "title": "Vadodara Restaurant Concept",
+        "description": "A fictional hospitality concept by Copper Room. This restaurant concept brief balances kitchen workflow, comfortable seating and locally crafted interior details, with emphasis on dining acoustics. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Hospitality",
+        "style": "Regional",
+        "location": "Vadodara",
+        "year": 2024,
+        "budget": 1160000,
+        "images": [
+          "/media/project-063.jpg"
+        ]
+      },
+      {
+        "title": "Vadodara Dining acoustics Project",
+        "description": "A fictional hospitality concept by Copper Room. This dining acoustics project brief balances kitchen workflow, comfortable seating and locally crafted interior details, with emphasis on dining acoustics. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Hospitality",
+        "style": "Regional",
+        "location": "Vadodara",
+        "year": 2025,
+        "budget": 2320000,
+        "images": [
+          "/media/project-064.jpg"
+        ]
+      },
+      {
+        "title": "Vadodara Regional Showcase",
+        "description": "A fictional hospitality concept by Copper Room. This regional showcase brief balances kitchen workflow, comfortable seating and locally crafted interior details, with emphasis on dining acoustics. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Hospitality",
+        "style": "Regional",
+        "location": "Vadodara",
+        "year": 2026,
+        "budget": 3480000,
+        "images": [
+          "/media/project-065.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer26@architectconnect.demo",
+    "name": "Rooted Habitat",
+    "location": "Ranchi",
+    "professionalTitle": "Eco-home Architect",
+    "experience": 10,
+    "architectFeeMin": 117500,
+    "architectFeeMax": 352500,
+    "materialBudgetMin": 1230000,
+    "materialBudgetMax": 4920000,
+    "budgetMin": 1347500,
+    "budgetMax": 5272500,
+    "designStyles": [
+      "Earthy",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Eco homes",
+      "Water conservation",
+      "Space planning"
+    ],
+    "specialization": [
+      "Eco homes",
+      "Water conservation"
+    ],
+    "bio": "Rooted Habitat is a fictional sample studio in Ranchi that integrates rainwater storage, shaded openings and locally sourced wall materials. Its practice focuses on eco homes and water conservation, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-26.jpg",
+    "projects": [
+      {
+        "title": "Ranchi Eco home Concept",
+        "description": "A fictional residential concept by Rooted Habitat. This eco home concept brief integrates rainwater storage, shaded openings and locally sourced wall materials, with emphasis on water conservation. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Earthy",
+        "location": "Ranchi",
+        "year": 2024,
+        "budget": 1230000,
+        "images": [
+          "/media/project-066.jpg"
+        ]
+      },
+      {
+        "title": "Ranchi Water conservation Project",
+        "description": "A fictional residential concept by Rooted Habitat. This water conservation project brief integrates rainwater storage, shaded openings and locally sourced wall materials, with emphasis on water conservation. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Earthy",
+        "location": "Ranchi",
+        "year": 2025,
+        "budget": 2460000,
+        "images": [
+          "/media/project-067.jpg"
+        ]
+      },
+      {
+        "title": "Ranchi Earthy Showcase",
+        "description": "A fictional residential concept by Rooted Habitat. This earthy showcase brief integrates rainwater storage, shaded openings and locally sourced wall materials, with emphasis on water conservation. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Earthy",
+        "location": "Ranchi",
+        "year": 2026,
+        "budget": 3690000,
+        "images": [
+          "/media/project-068.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer27@architectconnect.demo",
+    "name": "Blue Horizon",
+    "location": "Visakhapatnam",
+    "professionalTitle": "Seaside Apartment Designer",
+    "experience": 13,
+    "architectFeeMin": 124000,
+    "architectFeeMax": 372000,
+    "materialBudgetMin": 1300000,
+    "materialBudgetMax": 5200000,
+    "budgetMin": 1424000,
+    "budgetMax": 5572000,
+    "designStyles": [
+      "Coastal",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Sea-view apartments",
+      "Balcony design",
+      "Space planning"
+    ],
+    "specialization": [
+      "Sea-view apartments",
+      "Balcony design"
+    ],
+    "bio": "Blue Horizon is a fictional sample studio in Visakhapatnam that frames sea views with glare-controlled windows and robust coastal finishes. Its practice focuses on sea-view apartments and balcony design, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-27.jpg",
+    "projects": [
+      {
+        "title": "Visakhapatnam Sea-view apartment Concept",
+        "description": "A fictional residential concept by Blue Horizon. This sea-view apartment concept brief frames sea views with glare-controlled windows and robust coastal finishes, with emphasis on balcony design. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Coastal",
+        "location": "Visakhapatnam",
+        "year": 2024,
+        "budget": 1300000,
+        "images": [
+          "/media/project-069.jpg"
+        ]
+      },
+      {
+        "title": "Visakhapatnam Balcony design Project",
+        "description": "A fictional residential concept by Blue Horizon. This balcony design project brief frames sea views with glare-controlled windows and robust coastal finishes, with emphasis on balcony design. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Coastal",
+        "location": "Visakhapatnam",
+        "year": 2025,
+        "budget": 2600000,
+        "images": [
+          "/media/project-070.jpg"
+        ]
+      },
+      {
+        "title": "Visakhapatnam Coastal Showcase",
+        "description": "A fictional residential concept by Blue Horizon. This coastal showcase brief frames sea views with glare-controlled windows and robust coastal finishes, with emphasis on balcony design. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Coastal",
+        "location": "Visakhapatnam",
+        "year": 2026,
+        "budget": 3900000,
+        "images": [
+          "/media/project-071.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer28@architectconnect.demo",
+    "name": "Northline Works",
+    "location": "Amritsar",
+    "professionalTitle": "Mixed-use Architect",
+    "experience": 16,
+    "architectFeeMin": 130500,
+    "architectFeeMax": 391500,
+    "materialBudgetMin": 1370000,
+    "materialBudgetMax": 5480000,
+    "budgetMin": 1500500,
+    "budgetMax": 5871500,
+    "designStyles": [
+      "Modern",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Mixed-use buildings",
+      "Street-front design",
+      "Space planning"
+    ],
+    "specialization": [
+      "Mixed-use buildings",
+      "Street-front design"
+    ],
+    "bio": "Northline Works is a fictional sample studio in Amritsar that separates residential access from retail movement while giving street edges a clear identity. Its practice focuses on mixed-use buildings and street-front design, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-28.jpg",
+    "projects": [
+      {
+        "title": "Amritsar Mixed-use building Concept",
+        "description": "A fictional residential concept by Northline Works. This mixed-use building concept brief separates residential access from retail movement while giving street edges a clear identity, with emphasis on street-front design. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Modern",
+        "location": "Amritsar",
+        "year": 2024,
+        "budget": 1370000,
+        "images": [
+          "/media/project-072.jpg"
+        ]
+      },
+      {
+        "title": "Amritsar Street-front design Project",
+        "description": "A fictional residential concept by Northline Works. This street-front design project brief separates residential access from retail movement while giving street edges a clear identity, with emphasis on street-front design. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Modern",
+        "location": "Amritsar",
+        "year": 2025,
+        "budget": 2740000,
+        "images": [
+          "/media/project-073.jpg"
+        ]
+      },
+      {
+        "title": "Amritsar Modern Showcase",
+        "description": "A fictional residential concept by Northline Works. This modern showcase brief separates residential access from retail movement while giving street edges a clear identity, with emphasis on street-front design. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Modern",
+        "location": "Amritsar",
+        "year": 2026,
+        "budget": 4110000,
+        "images": [
+          "/media/project-074.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer29@architectconnect.demo",
+    "name": "Saffron Studio",
+    "location": "Jodhpur",
+    "professionalTitle": "Desert Home Architect",
+    "experience": 19,
+    "architectFeeMin": 137000,
+    "architectFeeMax": 411000,
+    "materialBudgetMin": 1440000,
+    "materialBudgetMax": 5760000,
+    "budgetMin": 1577000,
+    "budgetMax": 6171000,
+    "designStyles": [
+      "Regional",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Desert homes",
+      "Thermal comfort",
+      "Space planning"
+    ],
+    "specialization": [
+      "Desert homes",
+      "Thermal comfort"
+    ],
+    "bio": "Saffron Studio is a fictional sample studio in Jodhpur that uses compact courts, screened openings and thermal mass for hot, dry conditions. Its practice focuses on desert homes and thermal comfort, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-29.jpg",
+    "projects": [
+      {
+        "title": "Jodhpur Desert home Concept",
+        "description": "A fictional residential concept by Saffron Studio. This desert home concept brief uses compact courts, screened openings and thermal mass for hot, dry conditions, with emphasis on thermal comfort. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Regional",
+        "location": "Jodhpur",
+        "year": 2024,
+        "budget": 1440000,
+        "images": [
+          "/media/project-075.jpg"
+        ]
+      },
+      {
+        "title": "Jodhpur Thermal comfort Project",
+        "description": "A fictional residential concept by Saffron Studio. This thermal comfort project brief uses compact courts, screened openings and thermal mass for hot, dry conditions, with emphasis on thermal comfort. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Regional",
+        "location": "Jodhpur",
+        "year": 2025,
+        "budget": 2880000,
+        "images": [
+          "/media/project-076.jpg"
+        ]
+      },
+      {
+        "title": "Jodhpur Regional Showcase",
+        "description": "A fictional residential concept by Saffron Studio. This regional showcase brief uses compact courts, screened openings and thermal mass for hot, dry conditions, with emphasis on thermal comfort. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Residential",
+        "style": "Regional",
+        "location": "Jodhpur",
+        "year": 2026,
+        "budget": 4320000,
+        "images": [
+          "/media/project-077.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "email": "designer30@architectconnect.demo",
+    "name": "Pixel & Plan",
+    "location": "Thiruvananthapuram",
+    "professionalTitle": "Home Office Interior Designer",
+    "experience": 4,
+    "architectFeeMin": 143500,
+    "architectFeeMax": 430500,
+    "materialBudgetMin": 1510000,
+    "materialBudgetMax": 6040000,
+    "budgetMin": 1653500,
+    "budgetMax": 6470500,
+    "designStyles": [
+      "Japandi",
+      "Contemporary"
+    ],
+    "expertise": [
+      "Home offices",
+      "Acoustic corners",
+      "Space planning"
+    ],
+    "specialization": [
+      "Home offices",
+      "Acoustic corners"
+    ],
+    "bio": "Pixel & Plan is a fictional sample studio in Thiruvananthapuram that turns spare rooms into focused workspaces with concealed wiring and compact custom desks. Its practice focuses on home offices and acoustic corners, with staged design reviews and clear project estimates.",
+    "profileImage": "/media/studio-30.jpg",
+    "projects": [
+      {
+        "title": "Thiruvananthapuram Home office Concept",
+        "description": "A fictional commercial concept by Pixel & Plan. This home office concept brief turns spare rooms into focused workspaces with concealed wiring and compact custom desks, with emphasis on acoustic corners. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Japandi",
+        "location": "Thiruvananthapuram",
+        "year": 2024,
+        "budget": 1510000,
+        "images": [
+          "/media/project-078.jpg"
+        ]
+      },
+      {
+        "title": "Thiruvananthapuram Acoustic corners Project",
+        "description": "A fictional commercial concept by Pixel & Plan. This acoustic corners project brief turns spare rooms into focused workspaces with concealed wiring and compact custom desks, with emphasis on acoustic corners. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Japandi",
+        "location": "Thiruvananthapuram",
+        "year": 2025,
+        "budget": 3020000,
+        "images": [
+          "/media/project-079.jpg"
+        ]
+      },
+      {
+        "title": "Thiruvananthapuram Japandi Showcase",
+        "description": "A fictional commercial concept by Pixel & Plan. This japandi showcase brief turns spare rooms into focused workspaces with concealed wiring and compact custom desks, with emphasis on acoustic corners. Sample scope includes layout options, material selection and lighting coordination.",
+        "category": "Commercial",
+        "style": "Japandi",
+        "location": "Thiruvananthapuram",
+        "year": 2026,
+        "budget": 4530000,
+        "images": [
+          "/media/project-080.jpg"
+        ]
+      }
+    ]
+  }
+]

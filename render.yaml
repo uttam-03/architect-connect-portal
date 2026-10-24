@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: architect-connect
+    runtime: node
+    plan: starter
+    buildCommand: npm ci --prefix backend && npm ci --prefix frontend && npm run build --prefix frontend
+    startCommand: cd backend && npm start
+    healthCheckPath: /api/health
+    disk:
+      name: architect-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: DB_DIALECT
+        value: sqlite
+      - key: SQLITE_PATH
+        value: /var/data/architect_connect.sqlite
+      - key: AUTO_BACKUP
+        value: "true"
+      - key: RAZORPAY_KEY_ID
+        sync: false
+      - key: RAZORPAY_KEY_SECRET
+        sync: false
+      - key: RAZORPAY_WEBHOOK_SECRET
+        sync: false
