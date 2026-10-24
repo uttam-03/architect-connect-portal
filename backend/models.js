@@ -1,3 +1,4 @@
+import { readFileSync as readAivenCertificate } from "node:fs";
 import { Sequelize, DataTypes, Op } from "sequelize";
 import dotenv from "dotenv";
 import fs from "node:fs";
@@ -14,6 +15,19 @@ if (dialect === "mysql") {
     host: process.env.MYSQL_HOST || "127.0.0.1",
     port: Number(process.env.MYSQL_PORT || 3306),
     dialect: "mysql",
+    /* AIVEN_VERIFIED_TLS */
+    dialectOptions: {
+      ssl: {
+        ca: process.env.MYSQL_SSL_CA_BASE64
+          ? Buffer.from(process.env.MYSQL_SSL_CA_BASE64, "base64").toString("utf8")
+          : readAivenCertificate(
+              process.env.MYSQL_SSL_CA_PATH || "./secrets/ca.pem",
+              "utf8"
+            ),
+        rejectUnauthorized: true,
+        verifyIdentity: true
+      }
+    },
     ...common,
     pool: { max: 10, min: 0, acquire: 30000, idle: 10000 }
   });

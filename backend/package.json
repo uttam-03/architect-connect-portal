@@ -14,7 +14,9 @@
     "create-admin": "node create-admin.js",
     "demo:update": "node refresh-demo.js",
     "demo:expand": "node expand-demo.js",
-    "demo:images": "node update-demo-images.js"
+    "demo:images": "node update-demo-images.js",
+    "db:check": "node db-check.js",
+    "migrate:mysql": "node migrate-sqlite-mysql.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

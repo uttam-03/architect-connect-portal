@@ -2,8 +2,13 @@ node_modules/
 .env
 .env.*
 !.env.example
-frontend/dist/
 backend/data/
+backend/demo/*.sqlite
+backend/secrets/
+backend/backups/
 *.sqlite
 *.sqlite-wal
 *.sqlite-shm
+*.pem
+*.bak
+frontend/dist/
