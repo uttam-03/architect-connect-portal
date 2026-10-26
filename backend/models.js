@@ -1,6 +1,6 @@
-import { readFileSync as readAivenCertificate } from "node:fs";
 import { Sequelize, DataTypes, Op } from "sequelize";
 import dotenv from "dotenv";
+import {mysqlOptions} from "./mysql-config.js";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -12,24 +12,8 @@ const common = { logging: process.env.DB_LOGGING === "true" ? console.log : fals
 let sequelize;
 if (dialect === "mysql") {
   sequelize = new Sequelize(process.env.MYSQL_DATABASE, process.env.MYSQL_USER, process.env.MYSQL_PASSWORD, {
-    host: process.env.MYSQL_HOST || "127.0.0.1",
-    port: Number(process.env.MYSQL_PORT || 3306),
-    dialect: "mysql",
-    /* AIVEN_VERIFIED_TLS */
-    dialectOptions: {
-      ssl: {
-        ca: process.env.MYSQL_SSL_CA_BASE64
-          ? Buffer.from(process.env.MYSQL_SSL_CA_BASE64, "base64").toString("utf8")
-          : readAivenCertificate(
-              process.env.MYSQL_SSL_CA_PATH || "./secrets/ca.pem",
-              "utf8"
-            ),
-        rejectUnauthorized: true,
-        verifyIdentity: true
-      }
-    },
-    ...common,
-    pool: { max: 10, min: 0, acquire: 30000, idle: 10000 }
+    ...mysqlOptions(),
+    ...common
   });
 } else if (dialect === "sqlite") {
   const storage = process.env.SQLITE_PATH || "./data/architect_connect.sqlite";
@@ -105,6 +89,16 @@ export const Portfolio = sequelize.define("Portfolio", {
   status: { type: DataTypes.ENUM("pending", "published", "rejected"), defaultValue: "published" },
   views: { type: DataTypes.INTEGER, defaultValue: 0 }
 }, { tableName: "portfolios", timestamps: true });
+
+// Binary photos live in the same persistent database as portfolio records.
+export const ProjectImage = sequelize.define("ProjectImage", {
+  id: {type: DataTypes.UUID, defaultValue: DataTypes.UUIDV4, primaryKey: true},
+  portfolioId: {type: DataTypes.UUID, allowNull: false, references: {model:"portfolios",key:"id"},onDelete:"CASCADE"},
+  mimeType: {type: DataTypes.STRING(40),allowNull:false},
+  byteLength: {type: DataTypes.INTEGER,allowNull:false},
+  sha256: {type: DataTypes.STRING(64),allowNull:false},
+  data: {type: DataTypes.BLOB('medium'),allowNull:false}
+}, {tableName:"project_images",timestamps:true,defaultScope:{attributes:{exclude:["data"]}},indexes:[{fields:["portfolioId"]}]});
 
 export const Inquiry = sequelize.define("Inquiry", {
   id,
